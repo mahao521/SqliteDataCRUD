@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mahao/AndroidStudioProjects/SqliteDataCRUD/app/build/intermediates/res/merged/debug/layout/containsfragment.xml",
+        "source": "/Users/mahao/AndroidStudioProjects/SqliteDataCRUD/app/src/main/res/layout/containsfragment.xml"
+    },
+    {
+        "merged": "/Users/mahao/AndroidStudioProjects/SqliteDataCRUD/app/build/intermediates/res/merged/debug/layout/listview_info.xml",
+        "source": "/Users/mahao/AndroidStudioProjects/SqliteDataCRUD/app/src/main/res/layout/listview_info.xml"
+    },
+    {
+        "merged": "/Users/mahao/AndroidStudioProjects/SqliteDataCRUD/app/build/intermediates/res/merged/debug/layout/crud.xml",
+        "source": "/Users/mahao/AndroidStudioProjects/SqliteDataCRUD/app/src/main/res/layout/crud.xml"
+    },
+    {
+        "merged": "/Users/mahao/AndroidStudioProjects/SqliteDataCRUD/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/mahao/AndroidStudioProjects/SqliteDataCRUD/app/src/main/res/layout/activity_main.xml"
+    }
+]
